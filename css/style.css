@@ -1,0 +1,87 @@
+@charset "utf-8";
+
+
+body{
+	font-family: "Roboto Condensed";
+	font-size: 30px;
+    color: #FFF;
+}
+
+li{
+	padding: 0px 30px;
+}
+
+#presentacion h1{
+	font-family: "Anton";
+	font-size: 35px;
+	color:#000000;
+	padding: 10px 0px;
+}
+#presentacion {
+	color:#000000;
+	background-color: #A8A8A8;
+}
+
+#presentacion p{
+	color: #FFFFFF;
+}
+
+#acerca {
+	background-color:#B5B5B5;
+}
+
+#acerca h1{
+	font-family: "Anton";
+	font-size: 45px;
+}
+
+#acerca img{
+	padding: 10px 0px;
+}
+#portafolio h1{
+	font-family: "Anton";
+	font-size: 45px;
+	color: #000000;
+	padding: 10px 0px;
+}
+
+#portafolio{
+	background-color: #788B8A;
+}
+
+#portafolio img{
+	padding-bottom: 10px;
+}
+#acerca p{
+	color: #000000;
+}
+
+#servicios{
+	background-color: #3D6986;
+}
+
+#servicios img{
+	padding-bottom: 10px;
+}
+#servicios h1{
+	font-family: "Anton";
+	font-size: 45px;
+	color: #000000;
+}
+
+#contacto{
+	color: #000000;
+	background-color:#575757;
+	padding-bottom: 10px;
+}
+
+button.btn-white{
+	display: inline-block;
+	width: inherit;
+	margin-left: 10px;
+	background-color: white;
+}
+
+footer{
+	background-color: #1D1D1D;
+}
